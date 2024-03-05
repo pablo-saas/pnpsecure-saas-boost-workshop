@@ -1,5 +1,9 @@
+resource "random_id" "s3_bucket" {
+  byte_length = 8
+}
+
 resource "aws_s3_bucket" "artifact_store" {
-  bucket = "${var.app_name}-codepipeline-artifacts-20240207"
+  bucket = "${var.app_name}-codepipeline-artifacts-${random_id.s3_bucket.hex}"
 }
 
 resource "aws_s3_bucket_public_access_block" "artifact_store_pab" {
