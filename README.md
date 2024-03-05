@@ -148,7 +148,7 @@ git push --set-upstream origin main
 [Lab1 - CI/CD 파이프라인 개선](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab1/part7)
 
 
-## [LAB 2. SaaS Boost 설치 및 환경구성과 Tenant 생성)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab2]
+## [LAB 2. SaaS Boost 설치 및 환경구성과 Tenant 생성](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab2)
 
 ## LAB 3. SKIP
 
