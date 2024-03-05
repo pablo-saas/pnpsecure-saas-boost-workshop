@@ -13,19 +13,19 @@ https://bit.ly/436HIlJ
  
 워크샵을 시작하기 전에 SaaS 전환 전략부터 살펴 보겠습니다.
 
-(SaaS 전환 전략)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/intro/01-migstrategy]
+[SaaS 전환 전략](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/intro/01-migstrategy)
 
 ## 워크샵 환경 구성
 
 ### AWS Cloud9 IDE 설치
 
-(워크샵 환경 구성 - 개인 계정에서 진행)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/fast-lab/prep/02-self-paced]
+[워크샵 환경 구성 - 개인 계정에서 진행](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/fast-lab/prep/02-self-paced)
 
 반드시 amazonlinux2 사용
 
 ### SaaS Boost 설치
 
-(SaaS Boost 설치 및 환경구성과 Tenant 생성)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/fast-lab/lab1]
+[SaaS Boost 설치 및 환경구성과 Tenant 생성](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/fast-lab/lab1)
 
 위 링크에서 아래의 두 개 메뉴까지 진행 (시간이 소요되는 작업이라 미리 진행 후 DevOps 파이프라인 진행)
 
@@ -145,11 +145,11 @@ git push --set-upstream origin main
 
 아래 링크의 step 8부터 진행
 
-(Lab1 - CI/CD 파이프라인 개선)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab1/part7]
+[Lab1 - CI/CD 파이프라인 개선](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab1/part7)
 
 
-## (LAB 2. SaaS Boost 설치 및 환경구성과 Tenant 생성)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab2]
+## [LAB 2. SaaS Boost 설치 및 환경구성과 Tenant 생성)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab2]
 
 ## LAB 3. SKIP
 
-## (LAB 4. SaaS 비용분석 Dashboard 구성)[https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab4]
+## [LAB 4. SaaS 비용분석 Dashboard 구성](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab4)
