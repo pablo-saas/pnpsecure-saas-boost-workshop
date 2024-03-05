@@ -74,7 +74,7 @@ terraform apply
 ### check resource
 
 * AWS CodePipeline
-** CodePipeline trigger update
+  * CodePipeline trigger update
 * Amazon ECR
 * AWS ECS
 
