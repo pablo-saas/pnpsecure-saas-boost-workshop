@@ -152,4 +152,9 @@ git push --set-upstream origin main
 
 ## [LAB 3. CI/CD 파이프라인 수정](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab3/part8)
 
+### Deployment event and handler
+
+* EventBridge: sb-boost-ecr-sample
+* Lambda: sb-boost-workload-deploy
+
 ## [LAB 4. SaaS 비용분석 Dashboard 구성](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab4)
