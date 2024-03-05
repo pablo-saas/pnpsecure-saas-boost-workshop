@@ -150,6 +150,6 @@ git push --set-upstream origin main
 
 ## [LAB 2. SaaS Boost 설치 및 환경구성과 Tenant 생성](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab2)
 
-## LAB 3. SKIP
+## [LAB 3. CI/CD 파이프라인 수정](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab3/part8)
 
 ## [LAB 4. SaaS 비용분석 Dashboard 구성](https://catalog.us-east-1.prod.workshops.aws/workshops/ddef0709-6faa-4832-ad54-2044d65c0659/ko-KR/lab4)
