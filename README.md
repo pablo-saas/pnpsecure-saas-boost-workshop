@@ -1,6 +1,6 @@
 # SaaS Boost Workshop - PNPSECURE
 
-https://bit.ly/436HIlJ
+https://bit.ly/3v0yScJ
 
 ## 워크샵 소개
 
